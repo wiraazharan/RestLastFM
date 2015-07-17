@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LastFMTopChart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="looking_for_tracks">Searching for available tracks - wira -</string>
+    <string name="no_tracks">No Track Available - wira -</string>
+
+</resources>
